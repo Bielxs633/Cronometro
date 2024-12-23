@@ -12,14 +12,15 @@ Este projeto é um **Cronômetro**. A aplicação permite que o usuário inicie,
 ---
 
 ## Funcionalidades
-- **Iniciar**: Começa a contagem do cronômetro.
-- **Pausar**: Pausa o cronômetro, mantendo o valor atual.
-- **Reiniciar**: Reinicia o cronômetro para zero.
+1. **Iniciar**: Começa a contagem do cronômetro.
+2. **Pausar**: Pausa o cronômetro, mantendo o valor atual.
+3. **Reiniciar**: Reinicia o cronômetro para zero.
 
 ---
 
 ## Tecnologias utilizadas
-1. HTML
-2. CSS
-3. JavaScript
-4. Git
+- **HTML**
+- **CSS**
+- **JavaScript**
+- **Markdown**
+- **Git**
